@@ -1,8 +1,8 @@
-# Nasa Space App
+# :rocket: Nasa Space App
 
 ###### OBS: Os desafios em negrito foram os que mais gostei.
 
-### OBSERVA 
+### :telescope: OBSERVA 
 > Criar ferramentas  que tornem os dados obtidos por satélite etc..
 > mais acessíveis para cientistas, tomadores de decisão e o publico
 
@@ -15,7 +15,7 @@ dados da Nasa Earth
 
 
 
-### INFORMAR
+### :loudspeaker: INFORMAR
 
 > Formular uma maneira de envolver outras pessoas
 >sobre informações cientificas e históricas.
@@ -28,7 +28,7 @@ o futuro.**
 3. Contar a histórias da empresa de ciências da Terra da NASA usando ferramentas digitais interativas.
 
 
-### SUSTENTAR
+### :seedling: SUSTENTAR
 
 >  Que ações podemos tomar para sustentar nosso planeta natal, de modo que seja habitável
 para as gerações futuras? E como podemos sustentar a vida humana nas duras condições do espaço?
@@ -41,7 +41,7 @@ exercícios e nutrição para controlar a fadiga.
 - Criar um aplicativo de videogame que possa educar o público sobre o problema dos detritos orbitais e inspirar as pessoas a pensar sobre como capturá-los e descartá-los, e talvez até lucrar com isso.
 
 
-### CRIAR 
+### :bulb: CRIAR 
 
 > Os desafios desta categoria pedirão que você imagine, crie e  consciêntize.
 
@@ -53,7 +53,7 @@ exercícios e nutrição para controlar a fadiga.
 - Criar um mascote que possa ajudar a tornar o aprendizado sobre a Terra e as ciências espaciais mais divertido e acolhedor para o público mais jovem.
 
 
-### ENFRENTAR
+### :running: ENFRENTAR
 
 > Dos desastres naturais às desigualdades sociais e econômicas
 Como a tecnologia pode servir como ferramenta de mudança?
@@ -64,7 +64,7 @@ Como a tecnologia pode servir como ferramenta de mudança?
 - Descobrir novas maneiras pelas quais as observações da Terra podem contribuir para o monitoramento e relato de impactos de infraestrutura crítica de eventos de enchentes em todo o mundo.
 
 
-### CONECTAR
+### :electric_plug: CONECTAR
 
 > Examine métodos de comunicação uns com os outros e analise as complexas redes de pessoas e ideias que contribuem para as missões das agências espaciais na Terra e no espaço.
 
